@@ -6,7 +6,7 @@ function Hero() {
   {/* Background Image */}
   <div className="absolute inset-0">
     <img
-      src="src/assets/engine.jpg"
+      src="public/assets/engine.jpg"
       alt="Background"
       className="w-full h-full object-cover"
     />

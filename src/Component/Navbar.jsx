@@ -37,7 +37,7 @@ function Navbar() {
           {/* Logo */}
           <img
             className="w-28"
-            src="src/assets/logo-dark.png"
+            src="public/assets/logo-dark.png"
             alt="Logo"
           />
 

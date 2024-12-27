@@ -10,24 +10,24 @@ function Feature() {
         { id: "tab4", label: "Planning" },
       ];
       const images = [
-        "public/assets/1.jpg",
-        "public/assets/2.jpg",
-        "public/assets/3.jpg",
-        "public/assets/4.jpg",
-        "public/assets/5.jpg",
-        "public/assets/6.jpg",
+        "src/assets/1.jpg",
+        "src/assets/2.jpg",
+        "src/assets/3.jpg",
+        "src/assets/4.jpg",
+        "src/assets/5.jpg",
+        "src/assets/6.jpg",
       ];
       const image = [
-        "public/assets/1.jpg",       
-        "public/assets/5.jpg",
+        "src/assets/1.jpg",       
+        "src/assets/5.jpg",
       ];
       const image1 = [
-        "public/assets/2.jpg",       
-        "public/assets/4.jpg",
+        "src/assets/2.jpg",       
+        "src/assets/4.jpg",
       ];
       const image2 = [
-        "public/assets/3.jpg",       
-        "public/assets/6.jpg",
+        "src/assets/3.jpg",       
+        "src/assets/6.jpg",
       ];
   return (
     <div className='h-auto bg-slate-200 flex justify-center'>
